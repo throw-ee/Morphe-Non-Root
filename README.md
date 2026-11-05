@@ -8,9 +8,6 @@ Simply, all you need to do is choose the app you want to use from the options be
 > 
 > All the code is open-source, clearly, and the APK files used for patching are downloaded from a trusted site, so it is totally safe for you to use.
 ---
-<h1 align="center">
-Download
-</h1>
 
 > [!IMPORTANT] 
 > License owned by creator. If you like any modded app, please support the original author.
