@@ -1,3 +1,22 @@
+## ⚙️ How does this repository work?<img src="../main/docs/image/Readme.png" align="right" />
+Simply, all you need to do is choose the app you want to use from the options below: 'Revanced' or 'Revanced Extended'. Then, select your phone's CPU architecture. If you don't know what your phone's CPU architecture is, choose All Architectures. That's all there is to it.
+
+> [!NOTE]
+> If you want to use the YouTube, YouTube Music or Google Photos app, you need to download and install [MicroG RE](https://github.com/MorpheApp/MicroG-RE)
+> 
+> This repository is not like any other repository. It does not create new releases; it only releases new files.
+> 
+> All the code is open-source, clearly, and the APK files used for patching are downloaded from a trusted site, so it is totally safe for you to use.
+---
+<h1 align="center">
+Download
+</h1>
+
+> [!IMPORTANT] 
+> License owned by creator. If you like any modded app, please support the original author.
+> 
+---
+
 ## [MicroG RE:](https://github.com/MorpheApp/MicroG-RE)
 
 [![Release](https://img.shields.io/github/v/release/MorpheApp/MicroG-RE?label=All%20Architectures&style=for-the-badge)](https://github.com/MorpheApp/MicroG-RE/releases) 
